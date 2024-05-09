@@ -1,0 +1,28 @@
+body {
+    background-color: #f7f7f7; 
+}
+
+header {
+    background-color: rgb(167, 203, 245);
+    padding: 20px; /* Añadir espacio interno para mejorar la apariencia */
+}
+
+#deportes {/*Presentacion del titulo de la pagina*/
+    color: rgb(185, 43, 43);
+    text-align: center;
+    border: 5px rgb(24, 34, 170) outset;
+    border-radius: 20px;
+    background-color: rgb(121, 178, 231);
+}
+
+h3 {
+    color: rgb(7, 88, 155);
+}
+
+p{
+    text-align: justify;
+}
+
+footer {
+    background-color: rgb(167, 203, 245);
+}
